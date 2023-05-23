@@ -2,4 +2,4 @@
 
 I am a Software Developer.
 
-I am deprecating Github for personal use. Projects of mine and updated forks of those I collaborated with could be found at [codeberg.org/Arctichawk1](https://codeberg.org/Arctichawk1).
+I am using Github for collaborating with peers and interacting with the community. For more information about me you can check my website [batuhanbasoglu.us.to](https://batuhanbasoglu.us.to).
