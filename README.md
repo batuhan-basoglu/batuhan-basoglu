@@ -10,7 +10,7 @@ As of 28 August, 2023 I sign all my Git commits with SSH. This Git hosting servi
 
 ## Mirrors
 
-[![GitHub](https://img.shields.io/static/v1?logo=github&label=&message=GitHub&color=000&style=for-the-badge)](https://github.com/batuhan-basoglu)
-[![GitLab](https://img.shields.io/static/v1?logo=gitlab&label=&message=GitLab&color=000&style=for-the-badge)](https://gitlab.com/batuhan-basoglu)
-[![Codeberg](https://img.shields.io/static/v1?logo=codeberg&label=&message=Codeberg&color=000&style=for-the-badge)](https://codeberg.org/batuhan-basoglu)
 [![Forgejo](https://img.shields.io/static/v1?logo=forgejo&label=&message=Forgejo&color=000&style=for-the-badge)](https://git.batuhan.basoglu.co/batuhan-basoglu)
+[![Codeberg](https://img.shields.io/static/v1?logo=codeberg&label=&message=Codeberg&color=000&style=for-the-badge)](https://codeberg.org/batuhan-basoglu)
+[![GitLab](https://img.shields.io/static/v1?logo=gitlab&label=&message=GitLab&color=000&style=for-the-badge)](https://gitlab.com/batuhan-basoglu)
+[![GitHub](https://img.shields.io/static/v1?logo=github&label=&message=GitHub&color=000&style=for-the-badge)](https://github.com/batuhan-basoglu)
