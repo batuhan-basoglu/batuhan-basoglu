@@ -14,3 +14,9 @@ As of 28 August, 2023 I sign all my Git commits with SSH. This Git hosting servi
 [![Codeberg](https://img.shields.io/static/v1?logo=codeberg&label=&message=Codeberg&color=000&style=for-the-badge)](https://codeberg.org/batuhan-basoglu)
 [![GitLab](https://img.shields.io/static/v1?logo=gitlab&label=&message=GitLab&color=000&style=for-the-badge)](https://gitlab.com/batuhan-basoglu)
 [![GitHub](https://img.shields.io/static/v1?logo=github&label=&message=GitHub&color=000&style=for-the-badge)](https://github.com/batuhan-basoglu)
+
+
+## Donations
+
+[![Ko-Fi](https://shields.io/badge/ko--fi-Buy_me_a_coffee-ff5f5f?logo=ko-fi&style=for-the-badgeKo-fi)](https://ko-fi.com/batuhanbasoglu) <br/>
+[![Liberapay](https://img.shields.io/liberapay/goal/batuhan-basoglu)](https://liberapay.com/batuhan-basoglu/)
