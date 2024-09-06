@@ -19,4 +19,4 @@ As of 28 August, 2023 I sign all my Git commits with SSH. This Git hosting servi
 ## Donations
 
 [![Ko-Fi](https://shields.io/badge/ko--fi-Buy_me_a_coffee-ff5f5f?logo=ko-fi&style=for-the-badgeKo-fi)](https://ko-fi.com/batuhanbasoglu) <br/>
-[![Liberapay](https://img.shields.io/liberapay/goal/batuhan-basoglu)](https://liberapay.com/batuhan-basoglu/)
+[![Liberapay](https://img.shields.io/liberapay/goal/batuhan-basoglu.svg?logo=liberapay)](https://liberapay.com/batuhan-basoglu/)
